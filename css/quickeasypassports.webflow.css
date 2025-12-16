@@ -6940,6 +6940,10 @@ figcaption {
   display: flex;
 }
 
+.formcontainer {
+  width: 100%;
+}
+
 @media screen and (min-width: 1440px) {
   .grid-2-columns.style---styleguide-wrapper {
     grid-template-columns: .3fr 1fr;
